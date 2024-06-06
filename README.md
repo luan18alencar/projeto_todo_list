@@ -63,11 +63,15 @@
      seus dados estejam sempre atualizados.
 
 ### Marcação de Tarefas Concluídas: 
+
     Marque tarefas concluídas como finalizadas clicando no botão "Concluído". As tarefas concluídas serão riscadas na lista, diferenciando-as das tarefas pendentes e facilitando a visualização do seu progresso.
+
 ### Remoção de Tarefas: 
+
     Elimine tarefas desnecessárias ou concluídas clicando no botão "Remover". A confirmação da exclusão evita ações acidentais, protegendo suas informações importantes.
 
 ### Pesquisa de Tarefas: 
+
     Localize tarefas rapidamente utilizando o campo de pesquisa. Digite um termo de pesquisa para filtrar a lista e visualizar apenas as tarefas que contêm esse termo, otimizando sua busca e economizando tempo.
 
 ### Limpeza da Pesquisa: 
@@ -85,7 +89,9 @@
     Adapte o TODO_LIST às suas necessidades específicas, personalizando a interface e as funcionalidades para se adequar ao seu fluxo de trabalho e estilo de organização.
 
 ### Acessibilidade e Conveniência: 
+
     Acesse suas tarefas de qualquer lugar, a qualquer momento, através de um navegador web, garantindo que você esteja sempre conectado às suas responsabilidades.
+
 ## Tecnologias Robustas:
 
     HTML: A estrutura básica da aplicação é construída utilizando HTML, definindo os elementos e o conteúdo da interface do usuário.
@@ -93,10 +99,13 @@
     CSS: O estilo visual da aplicação é implementado com CSS, personalizando a aparência dos elementos, cores, fontes e layout da interface, proporcionando uma experiência visual agradável e intuitiva.
 
     JavaScript: A interatividade da aplicação é proporcionada por JavaScript, permitindo que os usuários adicionem, removam, editem e visualizem suas tarefas de forma dinâmica e eficiente.
+
 ### Banco de Dados (Opcional): 
+
     Um banco de dados simples, como SQLite, pode ser integrado para persistir as tarefas do usuário, garantindo que seus dados sejam armazenados com segurança e recuperados quando necessário.
+    
 # Conclusão:
 
-O TODO_LIST é uma ferramenta poderosa e versátil para gerenciar suas tarefas, oferecendo uma solução completa para organização, produtividade e personalização. Com recursos robustos, interface amigável e tecnologias confiáveis, o TODO_LIST se destaca como um aliado essencial para alcançar seus objetivos e otimizar seu tempo.
+    O TODO_LIST é uma ferramenta poderosa e versátil para gerenciar suas tarefas, oferecendo uma solução completa para organização, produtividade e personalização. Com recursos robustos, interface amigável e tecnologias confiáveis, o TODO_LIST se destaca como um aliado essencial para alcançar seus objetivos e otimizar seu tempo.
 
 
