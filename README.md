@@ -10,9 +10,11 @@
 [Uso](#uso)
 [Observações](#observações)
 [Recursos_Adicionais](#recursos-adicionais)
-[Tecnologias_Utilizadas](#tecnologias-utilizadas)
+[Tecnologias_Robustas](#tecnologias-robustas)
 [Funcionalidades_completas](#funcionalidades-completas)
-[Beneficios_essenciais]
+[Beneficios_essenciais](#benefícios-essenciais)
+[Conclusao](#conclusão)
+
 
 ### Instalação
     Clone o Repositório:
