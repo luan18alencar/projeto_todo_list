@@ -2,16 +2,15 @@
 
 ## Descrição:
 
-
+    O projeto TODO_LIST é uma aplicação web simples que permite aos usuários gerenciar suas tarefas de forma organizada e eficiente. Desenvolvido para a disciplina de Programação WEB 1 na Escola Social Marista Irmão Acácio, o projeto demonstra a aplicação prática de conceitos básicos de HTML, CSS e JavaScript.
 
 ## Índice:
 
-    Instalação
-    Uso
-    Observações Adicionais
-    Observações
-    Recursos Adicionais
-    Tecnologias Utilizadas
+[Instalação](#instalação)
+[Uso](#uso)
+[Observações](#observações)
+[Recursos_Adicionais](#recursos-adicionais)
+[Tecnologias_Utilizadas](#tecnologias-utilizadas)
 
 ### Instalação
     Clone o Repositório:
